@@ -1,0 +1,54 @@
+Individual profile data (from app):
+
+(This only includes apps that the user personally installed, not pre-installed ones)
+App: com.makanstudios.conscious
+App: com.hcceg.veg.compassionfree
+App: com.touchtype.swiftkey
+App: keepass2android.keepass2android
+App: com.whatsapp
+App: com.reddit.frontpage
+App: com.google.android.gm
+App: org.thoughtcrime.securesms
+App: com.privateinternetaccess.android
+App: com.google.android.apps.maps
+App: com.readabl.paperkarma
+App: com.example.chris.dataprint
+App: org.mozilla.firefox
+
+MusicArtist: Julien Baker
+MusicArtist: Moby
+MusicArtist: Modest Mouse
+MusicArtist: Radiohead
+MusicArtist: Rubblebucket
+MusicArtist: Sufjan Stevens
+
+(These will be the 5 most visited sites in order based on this person's history)
+Site: https://linkedin.com
+Site: https://reddit.com
+Site: https://mail.google.com
+Site: https://wikipedia.org
+Site: https://twitter.com
+
+(We can get a whole bunch of other stuff regarding texts, like metadata (who they were sent to and when), which is what the NSA collects, or phone metadata, for example. The only concern with that is that it doxes people a bit, which we obviously want to avoid. Getting the bodies of the text messages may be more intrusive, but at least it's completely anonymized.)
+texts:  body:W/e its probs good enough to have some outbox stuff in sms
+texts:  body:Aww goddammit that shows up in signal! 
+
+
+(Images go here.)
+
+
+Aggregated data (from wireshark):
+
+(These will be the 5 most visited sites in order, averaged from everyone since they logged onto wifi, plus the percentage of people who accessed that site)
+Site: https://google.com|70%
+Site: https://reddit.com|65%
+Site: https://mail.google.com|50%
+Site: https://wikipedia.org|10%
+Site: https://twitter.com|9%
+
+Name: Abhijeet Mahajan
+Age: 25
+Gender:	M
+DOB: 11/08/1992
+PlaceOfBirth: Jamner
+
